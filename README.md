@@ -73,13 +73,13 @@ Tapping on a place navigates to a detailed screen that shows the place's image, 
 
 ## Screenshots
 
-| Screen                 | Description                                          | Image                                                   |
-| ---------------------- | ---------------------------------------------------- | ------------------------------------------------------- |
-| ListView               | Home Screen displaying list of places in a list view | ![ListView](screenshots/ohmyfuel_splash.png)            |
-| ListView with Input    | Listview of places filtered by name                  | ![ListView Input]()                                     |
-| Detail Screen          | Detail of place                                      | ![Detail Screen](screenshots/ohmyfuel_homebefore.png)   |
-| Connection Error State | Connection Error Message                             | ![Connection Error](screenshots/ohmyfuel_homeafter.png) |
-| Timeout Error State    | Timeout Error Message                                | ![Timeout Error]()                                      |
+| Screen              | Description                                          | Image                                                     |
+| ------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
+| ListView            | Home Screen displaying list of places in a list view | ![ListView](screenshots/myplaces_listview.png)            |
+| ListView with Input | Listview of places filtered by name                  | ![ListView Input](screenshots/myplaces_listviewinput.png) |
+| Detail Screen       | Detail of place                                      | ![Detail Screen](screenshots/myplaces_detail.png)         |
+| No Data State       | No Data Message                                      | ![No Data](screenshots/myplaces_nodata.png)               |
+| Timeout Error State | Timeout Error Message                                | ![Timeout Error](screenshots/myplaces_timeout.png)        |
 
 ## Link to GitHub Repository
 
