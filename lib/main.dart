@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myplaces/views/pg_home.dart';
+import 'package:myplaces/views/sc_home.dart';
 
 void main() {
   runApp(const MainApp());
